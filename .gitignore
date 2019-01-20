@@ -1,0 +1,10 @@
+.DS_Store
+comments-minimal.json
+submissions.json
+hw3/
+hw2/
+comments.parquet/
+labeled_data.parquet/
+submissions.parquet/
+__pycache__/
+.ssh/
