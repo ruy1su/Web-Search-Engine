@@ -1,0 +1,20 @@
+0: Ecology Study
+1: Human Development
+2: Computer Science Development
+3: Physics Study
+4: Business Application
+5: Biology
+6: Climate Study
+7: Computer Networks
+8: Data Analytics
+9: Education In School
+10: Model Formation
+11: Chemistry
+12: Economics
+13: University Research ???
+14: Environment Study
+15: Optical Study
+16: Research
+17: Model Proposal
+18: University Training
+19: Plants Study

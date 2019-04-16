@@ -1,0 +1,2 @@
+ElasticSearch similarity function plugin
+The plugin was developed as a project for CS246 at UCLA

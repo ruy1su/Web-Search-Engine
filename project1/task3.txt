@@ -1,0 +1,11 @@
+{ "query": "amazon", "description": "all pages related to amazon", "pages": ["https://simple.wikipedia.org/wiki/Amazon_(company)", "https://simple.wikipedia.org/wiki/Amazon_Kindle"]}
+{ "query": "apple", "description": "all pages related to apple", "pages": ["https://simple.wikipedia.org/wiki/Apple_Inc.", "https://simple.wikipedia.org/wiki/Apple"]}
+{ "query": "google", "description": "all pages related to google", "pages": ["https://simple.wikipedia.org/wiki/Google", "https://simple.wikipedia.org/wiki/Google_Play"]}
+{ "query": "microsoft", "description": "all pages related to microsoft", "pages": ["https://simple.wikipedia.org/wiki/Microsoft", "https://simple.wikipedia.org/wiki/Microsoft_Office"]}
+{ "query": "adobe", "description": "all pages related to adobe", "pages": ["https://simple.wikipedia.org/wiki/Adobe", "https://simple.wikipedia.org/wiki/Adobe_Flash"]}
+{ "query": "yahoo", "description": "all pages related to yahoo", "pages": ["https://simple.wikipedia.org/wiki/Yahoo!", "https://simple.wikipedia.org/wiki/Yahoo!_Search"]}
+{ "query": "ebay", "description": "all pages related to ebay", "pages": ["https://simple.wikipedia.org/wiki/EBay", "https://simple.wikipedia.org/wiki/PayPal"]}
+{ "query": "visa", "description": "all pages related to visa", "pages": ["https://simple.wikipedia.org/wiki/Visa", "https://simple.wikipedia.org/wiki/Border"]}
+{ "query": "ucla", "description": "all pages related to ucla", "pages": ["https://simple.wikipedia.org/wiki/University_of_California,_Los_Angeles", "https://simple.wikipedia.org/wiki/Ronald_Reagan_UCLA_Medical_Center"]}
+{ "query": "ucsb", "description": "all pages related to ucsb", "pages": ["https://simple.wikipedia.org/wiki/University_of_California,_Santa_Barbara", "https://simple.wikipedia.org/wiki/Santa_Barbara,_California"]}
+

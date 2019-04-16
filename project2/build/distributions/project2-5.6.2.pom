@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId/>
+  <artifactId>project2</artifactId>
+  <version>5.6.2</version>
+  <packaging>pom</packaging>
+  <name>project2</name>
+  <description>Provides similarity plugin to allow incorporating values from any field of a document.</description>
+  <url>https://github.com/ZixiaWeng/Web-Search-Engine.git</url>
+  <scm>
+    <url>https://github.com/ZixiaWeng/Web-Search-Engine.git</url>
+  </scm>
+</project>
